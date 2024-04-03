@@ -5,4 +5,6 @@
 1.Processori
 2.Schede madri
 
+##Periferiche
+
 Elettronica Padovana
